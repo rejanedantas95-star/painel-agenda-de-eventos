@@ -37,3 +37,7 @@ Uma cliente pede um coffee break para 25 pessoas, às 9h. Depois de alinhar o pe
 ## Uso na rotina
 
 A agenda é usada para acompanhar encomendas e eventos recebidos pelo WhatsApp. O atendimento registra o combinado e a operação tem um ponto de consulta para preparar os pedidos do dia.
+
+## Vídeo de demonstração
+
+[Assista à demonstração em MP4](demo-agenda-de-eventos.mp4). Em 18 segundos, o vídeo mostra um pedido fictício chegando pelo WhatsApp, o registro na agenda e a conferência pela operação. As telas foram criadas para o portfólio.
